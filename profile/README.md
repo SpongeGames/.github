@@ -6,9 +6,12 @@
 
 ### perchè no! ovvio che si può!
 
-
-
 ![GitHub stars](https://img.shields.io/github/stars/SpongeGames?color=%23363640&label=Stars&style=social)
 ![Discord](https://img.shields.io/discord/955181531779985458?color=yellow)
+
+<section>
+
 ![Discord Banner 3](https://discordapp.com/api/guilds/955181531779985458/widget.png?style=banner3)
+
+</section>  
 
