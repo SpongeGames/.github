@@ -7,14 +7,8 @@
 ### perchè no! ovvio che si può!
 
 
-<section id='stats'>
-  
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=SpongeGames&show_icons=true&theme=tokyonight)
-  ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SpongeGames&layout=compact&theme=github_dark)
-
-</section>
 
 ![GitHub stars](https://img.shields.io/github/stars/SpongeGames?color=%23363640&label=Stars&style=social)
 ![Discord](https://img.shields.io/discord/955181531779985458?color=yellow)
-![Ds widget](https://canary.discord.com/api/guilds/955181531779985458/widget.json)
+![Discord Banner 3](https://discordapp.com/api/guilds/955181531779985458/widget.png?style=banner3)
 
