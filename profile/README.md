@@ -14,5 +14,7 @@
 
 </section>
 
-![GitHub stars](https://img.shields.io/github/stars/e-splat?logo=github&style=social)
+![GitHub stars](https://img.shields.io/github/stars/SpongeGames?color=%23363640&label=Stars&style=social)
+![Discord](https://img.shields.io/discord/955181531779985458?color=yellow)
+![Ds widget](https://canary.discord.com/api/guilds/955181531779985458/widget.json)
 
