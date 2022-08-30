@@ -2,13 +2,10 @@
 
 ### Siamo un Server Minecraft che dal 2021 porta avanti il suo Sviluppo che promuove OpenSource puro
 
-## I Plugin sono compilabili da Sorgente?
-
-### perchè no! ovvio che si può!
-
+## Puoi trovare Mod Fabric, Plugin
 ![GitHub stars](https://img.shields.io/github/stars/SpongeGames?color=%23363640&label=Stars&style=social)
 ![Discord](https://img.shields.io/discord/955181531779985458?color=yellow)
-
+<iframe style="width:728px;height:90px;max-width:100%;border:none;display:block;margin:auto" src="https://it.namemc.com/server/play.spongegames.tk/embed" width="728" height="90"></iframe>
 <section>
 
 ![Discord Banner 3](https://discordapp.com/api/guilds/955181531779985458/widget.png?style=banner3)
